@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Justus
-- 👀 I’m interested in HTML
+- 👋 Hi, I’m @Justus Knigge
+- 👀 I’m from Germany
 - 🌱 I’m currently learning Html
 - 💞️ I’m looking to collaborate on i dont no
 - 📫 How to reach me EMAIL or Discord https://discord.gg/yjhpvsExAW
